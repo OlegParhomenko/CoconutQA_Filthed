@@ -11,4 +11,4 @@ __pycache__/
 .token
 .env
 dont_push_me.py
-Lib/gi
+Lib/
